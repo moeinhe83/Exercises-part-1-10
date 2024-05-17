@@ -4,7 +4,7 @@ Question Number ===> 10
 
 Programming Language ===> Python
 
-Program description ===> The Tenth Exercise
+Program Description ===> The Tenth Exercise
 
 Example ===> Write A Program That Adds The Chemistry Item To The Above table => lesson = (‘math’, ‘physics’)
 
