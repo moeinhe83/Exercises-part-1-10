@@ -6,7 +6,7 @@ Programming Language ===> Python
 
 Program description ===> The Tenth Exercise
 
-Example ===> Write A Program That Adds the chemistry Item To The Above table => lesson = (‘math’, ‘physics’)
+Example ===> Write A Program That Adds The chemistry Item To The Above table => lesson = (‘math’, ‘physics’)
 
 Description Of Files:
 
